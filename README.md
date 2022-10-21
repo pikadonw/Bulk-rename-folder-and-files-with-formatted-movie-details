@@ -2,9 +2,9 @@
 To rename unorderly Movie folders and files to a formatted name - "[Year] Movie name (Director)" with proper Movie details fetched from TMDB.
 
 ## Prerequistes:
-Latest version of Python installed.
-TMDB API Key -> https://www.themoviedb.org/settings/api
-(Optional) Any editors like VS Code to edit the scripts to your preference.
+*Latest version of Python installed.
+*TMDB API Key -> https://www.themoviedb.org/settings/api
+*(Optional) Any editors like VS Code to edit the scripts to your preference.
 
 ## Scripts:
 ### For renaming the existing movie filenames to a formatted name and moving them into corresponding folders of the same name,
