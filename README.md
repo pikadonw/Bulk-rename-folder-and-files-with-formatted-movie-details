@@ -17,13 +17,13 @@ To bulk rename any/all unorderly Movie folders and files to a formatted name - "
 
 ## Process:
 Step-1: Edit the script for finding and replacing your API and folder details.<br/>
-&emsp - "inser your api TMDB key" --> TMDB API Key (in mvfind_file.py and mvfind_folder.py).<br/>
-&emsp - "Your script folder name" --> Folder where you have placed/downloaded the scripts (in all the scripts).<br/>
-&emsp - "Your Movies folder name" --> Folder where your movie files and folders exist(in all the scripts).<br/>
+&emsp; - "inser your api TMDB key" --> TMDB API Key (in mvfind_file.py and mvfind_folder.py).<br/>
+&emsp; - "Your script folder name" --> Folder where you have placed/downloaded the scripts (in all the scripts).<br/>
+&emsp; - "Your Movies folder name" --> Folder where your movie files and folders exist(in all the scripts).<br/>
 Step-2: Run the find files (mvfind_file.py and mvfind_folder.py) and it will return a csv file with data like "new formatted name, original folder/filename".<br/>
- &emsp   **For e.g. "[2021] Last Night in Soho (Edgar Wright),W:\Format Movies folder\Test\Last.Night.in.Soho.2021.2160p.WEB-DL.x265".**<br/>
-Step-3: Validate the ouput orig_filenames.csv, and orig_foldernames.csv for any discrepencies before executing the rename files.        
-Step-4: Run the rename files (rename_folders.py, and move_and_rename_files.py) and it will take the previous csv data and make new folder/filenames with the new                formatted name.
+ &emsp;   **For e.g. "[2021] Last Night in Soho (Edgar Wright),W:\Format Movies folder\Test\Last.Night.in.Soho.2021.2160p.WEB-DL.x265".**<br/>
+Step-3: Validate the ouput orig_filenames.csv, and orig_foldernames.csv for any discrepencies before executing the rename files.<br/>  
+Step-4: Run the rename files (rename_folders.py, and move_and_rename_files.py) and it will take the previous csv data and make new folder/filenames with the new                formatted name.<br/>
 Step-5: That's it! Your folder/files should be renamed by now.
          
  *Run the python files based on your preference/need (either renaming only files, folders or both) in the order/group mentioned above.
