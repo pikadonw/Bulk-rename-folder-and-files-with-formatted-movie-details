@@ -1,5 +1,5 @@
 # Bulk Folder and file renaming for Movies using TMDB API
-To rename unorderly Movie folders and files to a formatted name - "[Year] Movie name (Director)" with proper Movie details fetched from TMDB.
+To bulk rename any/all unorderly Movie folders and files to a formatted name - "[Year] Movie name (Director)" with proper Movie details fetched from TMDB.
 
 ## Prerequistes:
 * Latest version of Python installed.
