@@ -29,7 +29,7 @@ Step-5:  That's it! Your folder/files should be renamed by now.
  *Run the python files based on your preference/need (either renaming only files, folders or both) in the order/group mentioned above.
 
 
-## Disclaimer: In some cases TMDB does not return the expected movie details and it can be frustrating. It can be overcome by tweaking the code or alter the existing filename for the query to fetch the required movie details.
+#### Disclaimer: In some cases TMDB does not return the expected movie details and it can be frustrating. It can be overcome by tweaking the code or alter the existing filename for the query to fetch the required movie details.
               
 I highly doubt anyone would want to bulk rename movie files and folders this way (since this took me almost 3 days to refine, and I honestly think i could have manually renamed all my movie files within 2 days), but this way is fun! If anyone faces any issues with the scripts or if you have some queries please hit me up at my discord.
 
